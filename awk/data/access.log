@@ -1,0 +1,17 @@
+2024-01-15 08:12:33 GET /api/users 200 45ms
+2024-01-15 08:12:35 POST /api/users 201 120ms
+2024-01-15 08:13:01 GET /api/products 200 32ms
+2024-01-15 08:13:15 GET /api/users/42 404 8ms
+2024-01-15 08:14:02 PUT /api/users/7 200 95ms
+2024-01-15 08:14:30 GET /api/products 200 28ms
+2024-01-15 08:15:00 DELETE /api/users/3 403 12ms
+2024-01-15 08:15:22 GET /api/users 200 41ms
+2024-01-15 08:16:10 POST /api/orders 201 200ms
+2024-01-15 08:16:45 GET /api/orders/99 500 5ms
+2024-01-15 08:17:03 GET /api/products 200 30ms
+2024-01-15 08:17:30 POST /api/orders 201 185ms
+2024-01-15 08:18:00 GET /api/users 200 39ms
+2024-01-15 08:18:22 GET /api/health 200 2ms
+2024-01-15 08:19:01 PUT /api/products/5 200 88ms
+2024-01-15 08:19:45 GET /api/users/42 404 7ms
+2024-01-15 08:20:00 POST /api/users 500 3ms

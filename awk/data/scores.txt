@@ -1,0 +1,12 @@
+Alice   Math     85
+Alice   English  92
+Alice   Science  78
+Bob     Math     70
+Bob     English  65
+Bob     Science  88
+Charlie Math     95
+Charlie English  80
+Charlie Science  91
+Diana   Math     60
+Diana   English  75
+Diana   Science  82

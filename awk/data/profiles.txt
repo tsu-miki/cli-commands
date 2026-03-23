@@ -1,0 +1,15 @@
+Name: Alice
+Role: Backend Engineer
+Skills: Rust, Go, PostgreSQL
+
+Name: Bob
+Role: Frontend Engineer
+Skills: React, TypeScript, CSS
+
+Name: Charlie
+Role: DevOps Engineer
+Skills: Kubernetes, Terraform, AWS
+
+Name: Diana
+Role: Data Scientist
+Skills: Python, PyTorch, SQL
